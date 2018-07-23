@@ -3,7 +3,7 @@ lazy val root = (project in file(".")).
   settings(
     inThisBuild(List(
       organization := "br.com.yandeh",
-      version := "0.1"
+      version := "0.1",
       scalaVersion := "2.11.12",
       libraryDependencies += "org.apache.spark" %% "spark-core" % "2.3.1" % Provided,
       libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.3.1"  % Provided,
