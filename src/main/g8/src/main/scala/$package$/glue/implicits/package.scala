@@ -1,4 +1,4 @@
-package br.com.yandeh.glue
+package $package$.glue
 
 import com.amazonaws.services.glue.{DynamicFrame, GlueContext}
 import org.apache.spark.sql.DataFrame

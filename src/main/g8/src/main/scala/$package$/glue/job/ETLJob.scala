@@ -1,4 +1,4 @@
-package br.com.yandeh.glue.job
+package $package$.glue.job
 
 import com.amazonaws.services.glue.GlueContext
 import org.apache.spark.SparkContext

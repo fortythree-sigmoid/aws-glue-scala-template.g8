@@ -1,6 +1,6 @@
-package br.com.yandeh.glue.job
+package $package$.glue.job
 
-import br.com.yandeh.glue.implicits._
+import $package$.glue.implicits._
 import com.amazonaws.services.glue.util.JsonOptions
 import com.amazonaws.services.glue.{ChoiceOption, GlueContext}
 import org.apache.spark.SparkContext
