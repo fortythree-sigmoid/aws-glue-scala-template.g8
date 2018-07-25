@@ -10,3 +10,10 @@ and neighboring rights to this template to the public domain worldwide.
 This template is distributed without any warranty. See <http://creativecommons.org/publicdomain/zero/1.0/>.
 
 [g8]: http://www.foundweekends.org/giter8/
+
+
+## Usage ##
+
+  - Install gitter8 (instructions on http://www.foundweekends.org/giter8/)
+  - After installing, open a terminal and execute the following command
+    `g8 https://bitbucket.org/alexandredantasyandeh/aws-glue-scala-job.git`

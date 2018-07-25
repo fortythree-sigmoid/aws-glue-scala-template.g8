@@ -1,2 +1,0 @@
-# aws-glue-scala-job
-
